@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from './components/NavBar'
-import Hero from './components/Hero'
+
 import SimpleCSSWaves from './components/Waves'
 import Section from './components/About'
 import FeaturesSection from './components/Services'
