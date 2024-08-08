@@ -92,7 +92,7 @@ const TeamSection = () => {
                 />
               </a>
               <div className="p-5">
-                <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
+                <h3 className="text-xl font-bold tracking-tight text-white">
                   <a href="#">{member.name}</a>
                 </h3>
                 <span className="text-gray-500 dark:text-gray-400">{member.role}</span>
