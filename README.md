@@ -1,1 +1,1 @@
-- [https://hydro-sense-web.vercel.app/v](https://hydro-sense-web.vercel.app/)
+- [https://hydro-sense-web.vercel.app/](https://hydro-sense-web.vercel.app/)
